@@ -1,6 +1,3 @@
-// const filterInput = require("../../processInput");
-// const matchInputWords = require("../../matchInputwords");
-
 const { filterInput, compareWords } = require("../../processInput");
 
 describe("Filtering input", () => {
